@@ -1,4 +1,4 @@
-# N✕N Tic Tac Toe (Python)
+# Extensible Tic Tac Toe (Human vs Computer)
 
 ![Featured Image](./featured-image.png)
 
