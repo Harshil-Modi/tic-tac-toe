@@ -2,4 +2,4 @@
 
 [Java Version](./Java/Main.java)
 
-[Python Version](./Python/main.py)
+[Python Version](./Python/main.py) (Human vs Computer)
