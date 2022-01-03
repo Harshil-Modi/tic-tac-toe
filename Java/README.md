@@ -1,4 +1,4 @@
-# N✕N Tic Tac Toe (Java)
+# Extensible Tic Tac Toe
 
 ![Featured Image](./featured-image.png)
 
